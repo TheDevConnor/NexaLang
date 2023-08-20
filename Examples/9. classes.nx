@@ -1,0 +1,30 @@
+--classes
+
+have "std";
+
+--here we have class named person
+class Person {
+    --here we are making two public variable 'name' and 'age'
+    pub set name: string = "Dave;
+    pub set age: int = 23;
+
+    --to make a constructor you make a function called 'new'
+    met new(house_number: int, family: bool) {
+        this.house_number = house_number;
+        this.family = family;
+    }
+}
+
+--here we are making a object of 'Person'
+set person: Person = new Person(1234, true);
+
+met main() {
+    writeln("This is $person.name he is $person.age years old");
+    if person.family == true {
+        writeln("Dave has a family");
+    }
+    else if person.family == false {
+        writeln("Dave does not have a family");
+    }
+    writeln("Dave's house number is $person.house_number");
+}
