@@ -7,6 +7,7 @@ This is the Nexa programming language. A language for game developers by a game 
 1. High-Level: Nexa is an easy high level language
 2. Two Memory Mangement Options: Nexa will have two memeory mangement options. A garbage collector and manual memory managment if developers want more control.
 3. File Extension: Nexa code files must have the extension .nx
+4. Discord Server: https://discord.gg/wQcZvVJv
 
 # WARNING
 The language is still in developement and it may be a while hopefully.
