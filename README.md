@@ -3,18 +3,20 @@ This is the Nexa programming language. A language for game developers by a game 
 
 # Features
 1. High-Level: Nexa is an easy high level language
-2. Two Memory Mangement Options: Nexa will have two memeory mangement options. A garbage collector and manual memory managment so if developers want more control.
+2. Two Memory Mangement Options: Nexa will have two memeory mangement options. A garbage collector and manual memory managment if developers want more control.
 3. File Extension: Nexa code files must have the extension .nx
 
 # WARNING
-The language is still in developement and it may be while.
+The language is still in developement and it may be a while hopefully.
+
+Release date: 00110010 00110001 00110010 00110011
 
 # About Me
 
 ![selfie](https://github.com/Sup0088/NexaLang/assets/122580233/a452a7fd-c763-4bbb-9a79-7ffb5527f3dd)
 
 My name is Sabian aka Sabe or sup0088. I am 14 and I have been coding for 4 years.
-I started back in summer of 2020 when I broke my ps4 and I had a old laptop that I accidentally installed a couple viruses on.
+I started back in summer of 2020 when I broke my ps4 and I had an old laptop that I accidentally installed a couple viruses on.
 When my dad showed me this program called Small Basic and I fell in love with it instantly I made very basic text based games but I was doing it for days.
 But at some point I wanted to release my games but I figured out that small basic doesn't have a very good sharing network so I had to go hunting.
 I went through a lot of programming language and I found out that I wasn't a fan of using engines like Godot and Unity so I started doing more with programming languages.
