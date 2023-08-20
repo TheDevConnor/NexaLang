@@ -1,4 +1,6 @@
 # NexaLang
+![NexaLogo](https://github.com/Sup0088/NexaLang/assets/122580233/b3d21722-126c-49d2-a225-5cf2673e2668)
+
 This is the Nexa programming language. A language for game developers by a game developer.
 
 # Features
