@@ -26,5 +26,6 @@ making things from scratch is far more fun in my opinion.
 # Why am I making Nexa
 I am making Nexa because I want a language kind of like rust and multiple languages that I have used. You may ask why not use rust? Well I want a language that's less huge and that takes up
 a lot of space, one that doesn't take a long time to compile one of rust big problems, a language that gives you more control and you don't have to fight with the barrow checker,
-a language with simple syntax and little keywords Rust has 53 keywords has only 23 to you that may not bother you but personally that makes it bloated in my opinion. Agree to disagree.
+a language with simple syntax and little keywords Rust has 53 keywords while Nexa has only 23. That may not bother you but personally that makes it a little bit bloated in my opinion and I am 
+not really a fan of that. Agree to disagree.
 Also Nexa has syntax that I personally want in a language and syntax features from other languages that I really like.
