@@ -9,7 +9,7 @@ class Person {
     pub set age: int = 23;
 
     --to make a constructor you make a function called 'new'
-    met new(house_number: int, family: bool) {
+    fn new(house_number: int, family: bool) {
         this.house_number = house_number;
         this.family = family;
     }
@@ -18,7 +18,7 @@ class Person {
 --here we are making a object of 'Person'
 set person: Person = new Person(1234, true);
 
-met main() {
+fn main() {
     writeln("This is $person.name he is $person.age years old");
     if person.family == true {
         writeln("Dave has a family");
