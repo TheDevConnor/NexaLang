@@ -1,0 +1,16 @@
+--structs
+
+have "std";
+
+--here we created a struct names user
+struct User {
+    name: string,
+    age: int,
+    is_active: bool
+}
+
+met main() {
+    set user: User = new User{"James", 23, true}; --here we are initializing  the struct
+
+    writeln("$user");
+}

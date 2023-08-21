@@ -1,0 +1,7 @@
+--hello world program
+
+have "std";
+
+met main() {
+    writeln("Hello World"); --prints hello world to the terminal
+}

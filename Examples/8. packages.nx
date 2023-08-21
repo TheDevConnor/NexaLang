@@ -1,0 +1,9 @@
+--packages
+
+--to have a file be in a package use the 'pack' keyword
+package test;
+
+--to use functions in this file in other files you have to use the 'pub' keyword
+pub met hello() {
+    
+}
