@@ -12,7 +12,7 @@ This is the Nexa programming language. A language for game developers by a game 
 # WARNING
 The language is still in developement and it may be a while hopefully.
 
-Release date: 00110010 00110001 00110010 00110011
+Release date: 01101001 01100100 01101011
 
 # About Me
 
