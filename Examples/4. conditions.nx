@@ -2,7 +2,7 @@
 
 have "std";
 
-met main() {
+fn main() {
     set num1: int = 1;
     set num2: int = 2;
 
