@@ -11,6 +11,6 @@
     comment
 ]--
 
-met main() {
+fn main() {
     
 }
