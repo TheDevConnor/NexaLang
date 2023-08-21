@@ -3,13 +3,13 @@
 have "std";
 
 met main() {
-    this_a_function();
+    this_a_method();
     returns_int();
     function_with_parameter();
 }
 
 --to create a method you use the 'met' keyword
-met this_a_function() {
+met this_a_method() {
     writeln("message inside of function");
 }
 
@@ -23,7 +23,7 @@ met returns_int(): int {
 }
 
 --to have a function parameter write the variable inside of the parenthesis with the a type using ':'
-met function_with_parameter(name: string) {
+met method_with_parameter(name: string) {
     set my_name = name;
 
     writeln("my name is $name");
