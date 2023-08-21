@@ -9,7 +9,7 @@ struct User {
     is_active: bool
 }
 
-met main() {
+fn main() {
     set user: User = new User{"James", 23, true}; --here we are initializing  the struct
 
     writeln("$user");
