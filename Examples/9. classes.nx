@@ -5,8 +5,8 @@ have "std";
 --here we have class named person
 class Person {
     --here we are making two public variable 'name' and 'age'
-    pub set name: string = "Dave;
-    pub set age: int = 23;
+    set name: string = "Dave;
+    set age: int = 23;
 
     --to make a constructor you make a function called 'new'
     fun new(house_number: int, family: bool) {
