@@ -8,7 +8,7 @@ enum IpAddrKind {
     V6
 }
 
-met main() {
+fun main() {
     --variables for IpAddrKind
     set four = IpAddrKind.V4;
     set six = IpAddrKind.V6;
