@@ -10,7 +10,7 @@ This is the Nexa programming language. A language for game developers by a game 
 4. Discord Server: https://discord.gg/wQcZvVJv
 
 # WARNING
-The language is still in developement and it may be a while hopefully.
+The language is still in developement and it may be a while.
 
 Release date: 01101001 01100100 01101011
 
