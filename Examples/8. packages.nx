@@ -4,6 +4,6 @@
 package test;
 
 --to use functions in this file in other files you have to use the 'pub' keyword
-pub met hello() {
+pub fun hello() {
     
 }
