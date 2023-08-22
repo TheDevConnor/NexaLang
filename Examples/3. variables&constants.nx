@@ -2,7 +2,7 @@
 
 have "std";
 
-met main() {
+fun main() {
     set name; --declares a variable
     name = "John"; --initializing  the variable
     set age: int = 23; --delares and initializing  a variable
