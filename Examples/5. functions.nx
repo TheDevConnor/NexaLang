@@ -9,7 +9,7 @@ fun main() {
 }
 
 --to create a method you use the 'fun' keyword
-fun this_a_method() {
+fun this_a_function() {
     writeln("message inside of function");
 }
 
