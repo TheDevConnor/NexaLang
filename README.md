@@ -1,11 +1,11 @@
 # NexaLang
 ![NexaLogo](https://github.com/Sup0088/NexaLang/assets/122580233/b3d21722-126c-49d2-a225-5cf2673e2668)
 
-This is the Nexa programming language. A language for game developers by a game developer.
+Nexa programming language. A language for game developers by a game developer.
 
 # Features
 1. High-Level: Nexa is an easy high level language
-2. Two Memory Mangement Options: Nexa will have two memeory mangement options. A garbage collector and manual memory managment if developers want more control.
+2. Two Memory Mangement Options (Eventually): Nexa will have two memeory mangement options. A garbage collector and manual memory managment if developers want more control.
 3. File Extension: Nexa code files must have the extension .nx
 4. Discord Server: https://discord.gg/wQcZvVJv
 
