@@ -1,0 +1,30 @@
+--functions
+
+have "stdlib";
+
+fun main() {
+    this_a_function();
+    returns_int();
+    function_with_parameter();
+}
+
+--to create a method you use the 'fun' keyword
+fun this_a_function() {
+    writeln("message inside of function");
+}
+
+--to make a function return a value write the value then the 'fun' keyword
+int fun returns_int() {
+    set num: int = 23;
+
+    writeln("$num");
+
+    return num;
+}
+
+--to have a function parameter write the variable inside of the parenthesis with the a type using ':'
+fun method_with_parameter(name: string) {
+    set my_name = name;
+
+    writeln("my name is $name");
+}

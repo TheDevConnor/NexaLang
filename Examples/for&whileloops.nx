@@ -1,0 +1,16 @@
+have "stdlib";
+
+fun main() {
+    set area = ["game", "web", "tools", "science", "systems"]; 
+
+    for set i = 0; i < len(areas); i++ {
+        writeln("Hello devs in the $areas[i] area");
+    }
+
+    set i = 1;
+    set n = 5;
+
+    while i <= n {
+        writeln(i);
+    }
+}

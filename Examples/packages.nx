@@ -1,0 +1,14 @@
+--packages
+
+--to have a file be in a package use the 'pack' keyword
+package test;
+
+--to use functions in this file in other files you have to use the 'pub' keyword
+pub fun hello() {
+    
+}
+
+--to have a public function return a value write the 'pub' keyword then the type then the 'fun' keyword
+pub float fun my_age() {
+    return 3.14;
+}

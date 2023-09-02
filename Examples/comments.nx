@@ -1,0 +1,16 @@
+--comments
+
+--this is a comment
+
+--[
+    This
+    is
+    a
+    multi-
+    line
+    comment
+]--
+
+fun main() {
+    
+}

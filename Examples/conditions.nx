@@ -1,0 +1,24 @@
+--conditions
+
+have "stdlib";
+
+fun main() {
+    set num1: int = 1;
+    set num2: int = 2;
+
+    --here we are checking if num1 is equal to 1
+    if num1 == 1 {
+        writeln("num1 equals 1"); --here it does
+    }
+    else if num1 == 2 {
+        writeln("num1 does not equal 1); --here it does not
+    }
+
+    --here we are comparing num1 and num2
+    if num1 == num2 {
+        writeln("num1 is equal to num2");
+    }
+    else {
+        writeln("num1 is not equal to num2");
+    }
+}

@@ -1,0 +1,15 @@
+--variables&constants
+
+have "stdlib";
+
+fun main() {
+    set name; --declares a variable
+    name = "John"; --initializing  the variable
+    set age: int = 23; --declares and initializing  a variable
+
+    writeln("Hello my name is $name I am $age");
+
+    const PI: float = 3.14; --it is required to declare the type for a constant
+
+    writeln("$PI");
+}
