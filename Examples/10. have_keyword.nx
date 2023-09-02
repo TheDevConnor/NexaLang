@@ -1,8 +1,0 @@
---have keyword
-
---to use another file or package use the 'have' keyword
-have "package/file_name.nx";
-
-fun main() {
-    
-}

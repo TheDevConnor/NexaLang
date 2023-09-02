@@ -1,7 +1,0 @@
---hello world program
-
-have "std";
-
-fun main() {
-    writeln("Hello World"); --prints hello world to the terminal
-}
