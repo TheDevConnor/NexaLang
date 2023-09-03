@@ -1,7 +1,6 @@
 # NexaLang
-
-![Nexa-Logo-Mascot](https://github.com/Sup0088/NexaLang/assets/122580233/c2277d56-61aa-43b3-9967-97a85e82f9fd)
-![NexaLogo](https://github.com/Sup0088/NexaLang/assets/122580233/70992977-04d4-492e-842a-c0625262c3eb)
+![Nexa-Logo-Mascot](https://github.com/Sup0088/NexaLang/assets/122580233/d016a62b-acea-4f9f-aa0c-7854723c8e98)
+![NexaIcon](https://github.com/Sup0088/NexaLang/assets/122580233/eb32be6b-0f79-4af2-a0fa-f5ebd2204c69)
 
 Nexa programming language. A language for game developers by a game developer.
 
