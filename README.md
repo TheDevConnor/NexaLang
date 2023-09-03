@@ -32,6 +32,4 @@ I am making Nexa because I want a language kind of like rust and multiple langua
 a lot of space, one that doesn't take a long time to compile one of rust big problems, a language that gives you more control and you don't have to fight with the barrow checker,
 a language with simple syntax and little keywords Rust has 53 keywords while Nexa has only 22. That may not bother you but personally that makes it a little bit bloated in my opinion and I am 
 not really a fan of that. Agree to disagree.
-Also Nexa has syntax that I personally want in a l![Nexa-Logo-Mascot](https://github.com/Sup0088/NexaLang/assets/122580233/125d51f6-e28f-4cf7-8558-915e106b5340)
-![NexaLogo](https://github.com/Sup0088/NexaLang/assets/122580233/11dd2abf-6e67-4eb5-bd8f-b333fbdbb29b)
-anguage and syntax features from other languages that I really like.
+Also Nexa has syntax that I personally want in a language and syntax features from other languages that I really like.
