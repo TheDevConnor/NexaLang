@@ -62,19 +62,27 @@ export default class Parser {
         const isConstant = this.eat().type = TokenType.Const;
         const identifier = this.expect(TokenType.Identifier, "Expected identifier name following set | const keywords.").value;
 
-        if (this.at().type == TokenType.Semicolon) {
+        if (this.at().type === TokenType.Semicolon) {
             this.eat();
 
             if (isConstant) {
                 throw "Must assign value to constant expression. No value provided.";
             }
 
-            return {kind: "VarDeclaration", identifier, constant: false} as VarDeclaration;
+            return {
+                kind: "VarDeclaration", 
+                identifier, constant: 
+                false,
+            } as VarDeclaration;
         }
 
         this.expect(TokenType.Equals, "Expected equals token following identifier in var declaration");
 
-        const declaration = { kind: "VarDeclaration", value: this.parse_expr(), constant: isConstant } as unknown as VarDeclaration;
+        const declaration = { 
+            kind: "VarDeclaration", 
+            value: this.parse_expr(), 
+            constant: isConstant,
+        } as unknown as VarDeclaration;
 
         this.expect(TokenType.Semicolon, "Variable declaration statements must end with a semicolon.");
 
